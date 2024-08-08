@@ -72,7 +72,7 @@ http {
     }
 }
 ```
-
+Example of 10 GET requests balanced in between the two server
 
 Server 1 Terminal log:
 ```
